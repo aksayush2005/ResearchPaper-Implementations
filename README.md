@@ -1,2 +1,2 @@
 # ResearchPaper-Implementations
-This repo contains some new paper of Deep Learning
+This repo contains some implementation Deep Learning related to my research project at NITR.
