@@ -1,2 +1,0 @@
-# ResearchPaper-Implementations
-Research Project
