@@ -1,0 +1,5 @@
+Datasets used
+
+Plantvillage dataset=https://www.kaggle.com/datasets/abdallahalidev/plantvillage-dataset
+Bangladesh Crops Dataset=https://www.kaggle.com/datasets/nafishamoin/bangladeshi-crops-disease-dataset
+New Plant Disease Dataset=https://www.kaggle.com/datasets/vipoooool/new-plant-diseases-dataset
